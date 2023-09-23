@@ -1,0 +1,50 @@
+/* Add your CSS styling here */
+.home {
+    padding: 100px 0;
+    background-image: url('https://img.freepik.com/free-photo/several-notebooks-blue-surface_23-2148194652.jpg?w=360');
+    background-size: cover;
+    background-position: center;
+    /* color: #fff; */
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .name {
+    font-size: 48px;
+    margin-top: 0;
+  }
+  
+  .description {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    transition: background-color 0.3s;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .profile-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+  }
+  
+  /* Add more styling as needed */
+  
